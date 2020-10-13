@@ -5,7 +5,7 @@
 ![alt text](https://github.com/maakulit/maakulit/blob/main/tools1.png "Tools")
 
 ### 📫 How to reach me: ...
-* Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/vnctmc?style=social](https://twitter.com/vnctmc)
+Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/vnctmc?style=social)](https://twitter.com/vnctmc)
 * [School Email](mailto:mvatinon@wvsu.edu.ph)
 <!--
 **maakulit/maakulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
