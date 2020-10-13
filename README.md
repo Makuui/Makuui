@@ -1,5 +1,8 @@
 ### Hi there, I'm Mark Vincent!👋
-### สวัสดีคร๊าบ 
+### สวัสดีคร๊าบ 👋 ผมมาร์ควินเซ็นต์ครับ 🙏 
+
+### 🌱 I’m currently learning ...
+Java, Python, Flutter 
 
 <!--
 **maakulit/maakulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
