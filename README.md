@@ -1,4 +1,4 @@
-### Hi there, I'm Mark Vincent!👋 || สวัสดีคร๊าบ 👋 ผมมาร์ควินเซ็นต์ครับ 🙏 
+### Hi there, I'm Mark Vincent!👋 || สวัสดีคร๊าบ 🙏 ผมมาร์ควินเซ็นต์ครับ 👋
 
 >  West Visayas State University<br>
   Bachelor of Science in Computer Science Major in Artificial Intelligence 🧙‍♂️<br>
