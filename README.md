@@ -1,6 +1,10 @@
 ### Hi there, I'm Mark Vincent!👋
 ### สวัสดีคร๊าบ 👋 ผมมาร์ควินเซ็นต์ครับ 🙏 
 
+>  West Visayas State University<br>
+  Bachelor of Science in Computer Science Major in Artificial Intelligence 🧙‍♂️<br>
+  
+
 ### 🌱 I’m currently learning ...
 ![alt text](https://github.com/maakulit/maakulit/blob/main/tools1.png "Tools")
 
