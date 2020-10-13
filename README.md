@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning ...
 Java, Python, Flutter 
-
+![alt text](https://github.com/maakulit/maakulit/blob/main/tools.png "Tools")
 <!--
 **maakulit/maakulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
